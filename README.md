@@ -16,7 +16,10 @@ Script over the server-side is written in PHP.
 1. https://github.com/markruys/arduino-DHT
 2. https://github.com/ntruchsess/arduino_uip
 
+## Wiring diagram
+![Wiring diagram](http://blog.kacki.pl/wp-content/uploads/2016/02/ws1-1024x787.png)
+
 ## Couple of images
-![Wiring diagram](http://blog.kacki.pl/wp-content/uploads/2016/02/P1050615-001-1024x684.jpg)
+![Weather station](http://blog.kacki.pl/wp-content/uploads/2016/02/P1050615-001-1024x684.jpg)
 ![Serial monitor](http://blog.kacki.pl/wp-content/uploads/2016/02/ws-serial-4.png)
 ![amCharts](http://blog.kacki.pl/wp-content/uploads/2016/02/ws-graph.png)
