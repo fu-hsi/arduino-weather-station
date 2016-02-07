@@ -32,7 +32,7 @@ const static uint8_t mac[] = { 0x1A, 0x2B, 0x3C, 0x4D, 0x5E, 0x6F };
 const static uint16_t timerInterval = 1000 * 60; //max 65 535
 
 const static char wsHost[] PROGMEM = WS_HOST_NAME;
-const static char wsUri[] PROGMEM = "/ws/ping.php";
+const static char wsUri[] PROGMEM = "/ws.php";
 const static char wsAgent[] PROGMEM = "WeatherStation/1.0";
 const static char wsApiKey[] PROGMEM = "4Jrt39dj";
 
